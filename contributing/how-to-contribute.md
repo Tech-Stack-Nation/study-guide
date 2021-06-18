@@ -101,4 +101,11 @@ Now submit the pull request.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
-Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
+You'll get an email from Github when we review your PR.
+
+We may do one of the following:
+
+1. Accept it and merge it in with our congratulations.
+2. Comment and request changes.
+3. Adjust your changes slightly ourselves, then accept it and merge it in with our congratulations.
+4. Decide that it's not really for us, and decline with our thanks for contributing.

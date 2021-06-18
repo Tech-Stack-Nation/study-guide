@@ -1,24 +1,33 @@
+<link rel="stylesheet" type="text/css" media="all" href="_assets/style.css" />
+
 # Angular Study Plan
+
+#### Colour Key:
+
+- <beginner/>= Beginner
+- <junior/>= Junior developer
+- <mid/>= Mid-level developer
+- <senior/>= Senior developer
 
 ## Getting Started
 
-- Angular basics, components, templates, modules and services
-- Dependency Injection
-- Modules in more depth
-- Routing
-- Forms
-- Basic Angular Architecture
-- Observables
-- RxJs
-- Reactive Angular
-- Testing
+- <beginner/>Angular basics: components, templates, modules and services
+- <beginner/>CLI
+- <junior/>Dependency Injection
+- <junior/>Modules in more depth
+- <junior/>Routing
+- <junior/>Forms
+- <junior/>Basic Angular Architecture
+- <junior/>Observables
+- <junior/>RxJs
+- <junior/>Reactive Angular
+- <junior/>Testing
 
 ## More Advanced Concepts
 
 - Schematics
 - Internationalisation
 - Tools
-- CLI
 - Performance
 - Interceptors
 - directives
@@ -33,11 +42,11 @@
 
 ## Patterns
 
-- Angular Style Guide
-- Atomic Design
-- Enterprise Angular Monorepo Patterns
-- Domain-Driven Design with Angular
-- Design Patterns
+- <mid/><senior/>Angular Style Guide
+- <mid/><senior/>Atomic Design
+- <mid/><senior/>Enterprise Angular Monorepo Patterns
+- <mid/><senior/>Domain-Driven Design with Angular
+- <senior/>Design Patterns
 
 ## Pre and Server Side Rendering
 

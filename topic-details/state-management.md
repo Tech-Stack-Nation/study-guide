@@ -23,8 +23,8 @@
 
 ## Study Note:
 
-NgRx is Angular team approved and industry recognized for Enterprise development.
+NgRx is Angular team approved and industry recognised for Enterprise development.
 
-NGXS and Akita are more light weight, with a shorter learning curve and reduced boiler plate.
+NGXS and Akita are more lightweight, with a shorter learning curve and reduced boiler plate.
 
 Knowing that, you can choose which one suits your career / learning path.

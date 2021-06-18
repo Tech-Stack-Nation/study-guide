@@ -1,5 +1,3 @@
-<link rel="stylesheet" type="text/css" media="all" href="./_assets/style.css" />
-
 # Angular Study Plan
 
 #### Colour Key:
@@ -64,3 +62,43 @@
 - [NgRx](topic-details/state-management.md)
 - [NGXS](topic-details/state-management.md)
 - [Akita](topic-details/state-management.md)
+
+<style>
+    beginner:before {
+  content: "B";
+  background-color: #99c140;
+}
+
+junior:before {
+  content: "J";
+  background-color: #e7b416;
+}
+
+mid:before {
+  content: "M";
+  background-color: #db7b2b;
+}
+
+senior:before {
+  content: "S";
+  background-color: #cc3232;
+}
+
+beginner:before,
+junior:before,
+mid:before,
+senior:before {
+  margin-right: 0.5em;
+  width: 1em;
+  height: 1.5em;
+  display: inline-block;
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  margin-left: 10px;
+  padding-left: 10px;
+}
+
+</style>

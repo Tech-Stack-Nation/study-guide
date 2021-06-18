@@ -2,24 +2,24 @@
 
 #### Colour Key:
 
-- = Beginner
-- = Junior developer
-- = Mid-level developer
-- = Senior developer
+- ![](./_assets/beginner.png) = Beginner
+- ![](./_assets/junior.png) = Junior developer
+- ![](./_assets/mid.png) = Mid-level developer
+- ![](./_assets/senior.png) = Senior developer
 
 ## Getting Started
 
 - ![](./_assets/beginner.png) Angular basics: components, templates, modules and services
-- CLI
-- Dependency Injection
-- Modules in more depth
-- Routing
-- Forms
-- Basic Angular Architecture
-- Observables
-- RxJs
-- Reactive Angular
-- Testing
+- ![](./_assets/beginner.png) CLI
+- ![](./_assets/junior.png) Routing
+- ![](./_assets/junior.png) Forms
+- ![](./_assets/junior.png) Basic Angular Architecture
+- ![](./_assets/junior.png) Observables
+- ![](./_assets/junior.png) RxJs
+- ![](./_assets/junior.png) Reactive Angular
+- ![](./_assets/junior.png) Testing
+- ![](./_assets/mid.png) Dependency Injection
+- ![](./_assets/mid.png) Modules in more depth
 
 ## More Advanced Concepts
 
@@ -30,7 +30,7 @@
 - Interceptors
 - directives
 - Pipes, error handling, state management!
-- RxJS marble testing
+- ![](./_assets/mid.png) RxJS marble testing
 - [State Management](topic-details/state-management.md)
 - Typescript
 - Proper DOM manipulation using viewContainerRef, Renderer2, and ElementRef using directives

@@ -13,7 +13,7 @@
 - Reactive Angular
 - Testing
 
-### More Advanced Concepts
+## More Advanced Concepts
 
 - Schematics
 - Internationalisation
@@ -24,14 +24,14 @@
 - directives
 - Pipes, error handling, state management!
 - RxJS marble testing
-- State Management
+- [State Management](topic-details/state-management.md)
 - Typescript
-- Proper DOM manipulation using viewContainerRef, Rendrer2, and ElementRef using directives
+- Proper DOM manipulation using viewContainerRef, Renderer2, and ElementRef using directives
 - angular testing and routing
 - Reactive programming
 - Building form elements: Control Value Accessor
 
-### Patterns
+## Patterns
 
 - Angular Style Guide
 - Atomic Design
@@ -39,12 +39,12 @@
 - Domain-Driven Design with Angular
 - Design Patterns
 
-### Pre and Server Side Rendering
+## Pre and Server Side Rendering
 
 - Angular Universal
 - Scully
 
-### Extended Ecosystem
+## Extended Ecosystem
 
 - Angular Material
 - SCSS
@@ -52,9 +52,6 @@
 - Storybook
 - Cypress
 - Jest
-
-### NgRx
-
-- https://ultimatecoursescom/learn/ngrx-store-effects
-- https://gumroadcom/l/angular-ngrx-book
-- https://wwwpluralsightcom/courses/angular-ngrx-getting-started
+- [NgRx](topic-details/state-management.md)
+- [NGXS](topic-details/state-management.md)
+- [Akita](topic-details/state-management.md)

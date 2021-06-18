@@ -6,6 +6,10 @@ Note 1: Please don't expect your promotional links for study material to be part
 
 Note 2: This is still under construction.
 
-# Get Started
+## Get Started
 
-[Click here to see our entire list of topics](./index.md)
+[Click here to see our entire list of topics](./topics.md)
+
+## Contribute
+
+[How to contribute](./contributing/how-to-contribute.md)

@@ -2,24 +2,24 @@
 
 #### Colour Key:
 
-- <beginner/>= Beginner
-- <junior/>= Junior developer
-- <mid/>= Mid-level developer
-- <senior/>= Senior developer
+- = Beginner
+- = Junior developer
+- = Mid-level developer
+- = Senior developer
 
 ## Getting Started
 
-- <beginner/>Angular basics: components, templates, modules and services
-- <beginner/>CLI
-- <junior/>Dependency Injection
-- <junior/>Modules in more depth
-- <junior/>Routing
-- <junior/>Forms
-- <junior/>Basic Angular Architecture
-- <junior/>Observables
-- <junior/>RxJs
-- <junior/>Reactive Angular
-- <junior/>Testing
+- ![](./_assets/beginner.png) Angular basics: components, templates, modules and services
+- CLI
+- Dependency Injection
+- Modules in more depth
+- Routing
+- Forms
+- Basic Angular Architecture
+- Observables
+- RxJs
+- Reactive Angular
+- Testing
 
 ## More Advanced Concepts
 
@@ -40,11 +40,11 @@
 
 ## Patterns
 
-- <mid/><senior/>Angular Style Guide
-- <mid/><senior/>Atomic Design
-- <mid/><senior/>Enterprise Angular Monorepo Patterns
-- <mid/><senior/>Domain-Driven Design with Angular
-- <senior/>Design Patterns
+- Angular Style Guide
+- Atomic Design
+- Enterprise Angular Monorepo Patterns
+- Domain-Driven Design with Angular
+- Design Patterns
 
 ## Pre and Server Side Rendering
 
@@ -62,43 +62,3 @@
 - [NgRx](topic-details/state-management.md)
 - [NGXS](topic-details/state-management.md)
 - [Akita](topic-details/state-management.md)
-
-<style>
-    beginner:before {
-  content: "B";
-  background-color: #99c140;
-}
-
-junior:before {
-  content: "J";
-  background-color: #e7b416;
-}
-
-mid:before {
-  content: "M";
-  background-color: #db7b2b;
-}
-
-senior:before {
-  content: "S";
-  background-color: #cc3232;
-}
-
-beginner:before,
-junior:before,
-mid:before,
-senior:before {
-  margin-right: 0.5em;
-  width: 1em;
-  height: 1.5em;
-  display: inline-block;
-  text-align: center;
-}
-
-ul {
-  list-style-type: none;
-  margin-left: 10px;
-  padding-left: 10px;
-}
-
-</style>

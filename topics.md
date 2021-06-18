@@ -43,7 +43,7 @@
 - ![](./_assets/mid.png) ![](./_assets/senior.png) Atomic Design
 - ![](./_assets/senior.png) [Enterprise Angular Monorepo Patterns](topic-details/modular-apps.md)
 - ![](./_assets/senior.png) [Domain-Driven Design with Angular](topic-details/modular-apps.md)
-- ![](./_assets/senior.png) Design Patterns
+- ![](./_assets/senior.png) [Design Patterns](topic-details/design-patterns.md)
 
 ## Pre and Server Side Rendering
 

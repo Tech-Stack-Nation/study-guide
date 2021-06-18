@@ -16,49 +16,48 @@
 - ![](./_assets/junior.png) Basic Angular Architecture
 - ![](./_assets/junior.png) Observables
 - ![](./_assets/junior.png) RxJs
-- ![](./_assets/junior.png) Reactive Angular
+- ![](./_assets/junior.png) Reactive programming
 - ![](./_assets/junior.png) Testing
 - ![](./_assets/mid.png) Dependency Injection
 - ![](./_assets/mid.png) Modules in more depth
 
 ## More Advanced Concepts
 
-- Schematics
-- Internationalisation
+- ![](./_assets/mid.png) ![](./_assets/senior.png) Schematics
+- ![](./_assets/mid.png) Internationalisation
 - Tools
-- Performance
-- Interceptors
-- directives
-- Pipes, error handling, state management!
+- ![](./_assets/mid.png) ![](./_assets/senior.png) Performance
+- ![](./_assets/mid.png) Interceptors
+- ![](./_assets/mid.png) Directives
+- ![](./_assets/mid.png) Pipes
+- ![](./_assets/mid.png) Error handling
 - ![](./_assets/mid.png) RxJS marble testing
-- [State Management](topic-details/state-management.md)
-- Typescript
-- Proper DOM manipulation using viewContainerRef, Renderer2, and ElementRef using directives
-- angular testing and routing
-- Reactive programming
-- Building form elements: Control Value Accessor
+- ![](./_assets/mid.png) [State Management](topic-details/state-management.md)
+- ![](./_assets/junior.png) ![](./_assets/mid.png) Typescript
+- ![](./_assets/mid.png) Proper DOM manipulation using viewContainerRef, Renderer2, and ElementRef using directives
+- ![](./_assets/mid.png) ![](./_assets/senior.png) Building form elements: Control Value Accessor
 
 ## Patterns
 
-- Angular Style Guide
-- Atomic Design
-- Enterprise Angular Monorepo Patterns
-- Domain-Driven Design with Angular
-- Design Patterns
+- ![](./_assets/junior.png) ![](./_assets/mid.png) ![](./_assets/senior.png) Angular Style Guide
+- ![](./_assets/mid.png) ![](./_assets/senior.png) Atomic Design
+- ![](./_assets/senior.png) Enterprise Angular Monorepo Patterns
+- ![](./_assets/senior.png) Domain-Driven Design with Angular
+- ![](./_assets/senior.png) Design Patterns
 
 ## Pre and Server Side Rendering
 
-- Angular Universal
-- Scully
+- ![](./_assets/mid.png) ![](./_assets/senior.png) Angular Universal
+- ![](./_assets/mid.png) ![](./_assets/senior.png) Scully
 
 ## Extended Ecosystem
 
-- Angular Material
-- SCSS
-- Nrwl Nx
-- Storybook
-- Cypress
-- Jest
-- [NgRx](topic-details/state-management.md)
-- [NGXS](topic-details/state-management.md)
-- [Akita](topic-details/state-management.md)
+- ![](./_assets/mid.png) ![](./_assets/senior.png) Angular Material
+- ![](./_assets/mid.png) ![](./_assets/senior.png) SCSS
+- ![](./_assets/senior.png) Nrwl Nx
+- ![](./_assets/mid.png) ![](./_assets/senior.png) Storybook
+- ![](./_assets/mid.png) ![](./_assets/senior.png) Cypress
+- ![](./_assets/mid.png) ![](./_assets/senior.png) Jest
+- ![](./_assets/mid.png) ![](./_assets/senior.png) [NgRx](topic-details/state-management.md)
+- ![](./_assets/mid.png) ![](./_assets/senior.png) [NGXS](topic-details/state-management.md)
+- ![](./_assets/mid.png) ![](./_assets/senior.png) [Akita](topic-details/state-management.md)

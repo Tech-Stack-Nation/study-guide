@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" media="all" href="_assets/style.css" />
+<link rel="stylesheet" type="text/css" media="all" href="./_assets/style.css" />
 
 # Angular Study Plan
 

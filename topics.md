@@ -9,8 +9,8 @@
 
 ## Getting Started
 
-- ![](./_assets/beginner.png) Angular basics: components, templates, modules and services
-- ![](./_assets/beginner.png) CLI
+- ![](./_assets/beginner.png) [Angular basics: components, templates, modules and services](topic-details/angular-basics.md)
+- ![](./_assets/beginner.png) [CLI](topic-details/angular-cli.md)
 - ![](./_assets/junior.png) Routing
 - ![](./_assets/junior.png) Forms
 - ![](./_assets/junior.png) Basic Angular Architecture

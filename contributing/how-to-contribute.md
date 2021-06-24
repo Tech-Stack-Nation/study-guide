@@ -4,6 +4,8 @@ We welcome contributions! We particularly welcome first-time open source collabo
 
 If you have a link to Angular ecosystem study material that really helped you personally, or if you can think of an important topic we've missed, we want to know.
 
+Polite note: we will decline PRs with links that we believe self-promote. We only want links that have helped _your_ learning experience.
+
 # Create a Fork Pull Request
 
 _Credit: These instructions were adapted from [First Contributions repo](https://github.com/firstcontributions/first-contributions)_

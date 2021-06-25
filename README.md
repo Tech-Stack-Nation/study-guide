@@ -28,22 +28,28 @@ Note: This is still under construction.
 - ![](./_assets/junior.png) Testing
 - ![](./_assets/mid.png) Dependency Injection
 - ![](./_assets/mid.png) Modules in more depth
+- ![](./_assets/junior.png) ![](./_assets/mid.png) Typescript
 
 ### More Advanced Concepts
 
-- ![](./_assets/mid.png) ![](./_assets/senior.png) Schematics
 - ![](./_assets/mid.png) Internationalisation
-- Tools
-- ![](./_assets/mid.png) ![](./_assets/senior.png) Performance
+- ![](./_assets/mid.png) Angular DevTools Extension
+- ![](./_assets/senior.png) Performance
 - ![](./_assets/mid.png) Interceptors
+- ![](./_assets/mid.png) Guards
 - ![](./_assets/mid.png) Directives
 - ![](./_assets/mid.png) Pipes
 - ![](./_assets/mid.png) Error handling
 - ![](./_assets/mid.png) RxJS marble testing
 - ![](./_assets/mid.png) [State Management](topic-details/state-management.md)
-- ![](./_assets/junior.png) ![](./_assets/mid.png) Typescript
-- ![](./_assets/mid.png) Proper DOM manipulation using viewContainerRef, Renderer2, and ElementRef using directives
+- ![](./_assets/mid.png) DOM manipulation
 - ![](./_assets/mid.png) ![](./_assets/senior.png) Building form elements: Control Value Accessor
+- ![](./_assets/senior.png) Route Resolvers
+- ![](./_assets/senior.png) Dynamic component loaders
+- ![](./_assets/senior.png) Published Libraries
+- ![](./_assets/senior.png) Advanced Injection Tokens and Factories
+- ![](./_assets/senior.png) forRoot config in modules
+- ![](./_assets/senior.png) Schematics
 
 ### Patterns
 
@@ -55,7 +61,7 @@ Note: This is still under construction.
 
 ### Pre and Server Side Rendering
 
-- ![](./_assets/mid.png) ![](./_assets/senior.png) Angular Universal
+- ![](./_assets/senior.png) Angular Universal
 - ![](./_assets/mid.png) ![](./_assets/senior.png) Scully
 
 ### Extended Ecosystem
@@ -65,7 +71,7 @@ Note: This is still under construction.
 - ![](./_assets/senior.png) Nrwl Nx
 - ![](./_assets/mid.png) ![](./_assets/senior.png) Storybook
 - ![](./_assets/mid.png) ![](./_assets/senior.png) Cypress
-- ![](./_assets/mid.png) ![](./_assets/senior.png) Jest
+- ![](./_assets/junior.png) ![](./_assets/mid.png) ![](./_assets/senior.png) Jest
 - ![](./_assets/mid.png) ![](./_assets/senior.png) [NgRx](topic-details/state-management.md)
 - ![](./_assets/mid.png) ![](./_assets/senior.png) [NGXS](topic-details/state-management.md)
 - ![](./_assets/mid.png) ![](./_assets/senior.png) [Akita](topic-details/state-management.md)

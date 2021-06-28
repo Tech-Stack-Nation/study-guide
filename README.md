@@ -25,7 +25,7 @@ Note: This is still under construction.
 - ![](./_assets/junior.png) Observables
 - ![](./_assets/junior.png) RxJs
 - ![](./_assets/junior.png) Reactive programming
-- ![](./_assets/junior.png) Testing
+- ![](./_assets/junior.png) [Testing](topic-details/testing.md)
 - ![](./_assets/mid.png) Dependency Injection
 - ![](./_assets/mid.png) Modules in more depth
 - ![](./_assets/junior.png) ![](./_assets/mid.png) Typescript

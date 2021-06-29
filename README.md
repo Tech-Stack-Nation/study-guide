@@ -26,9 +26,9 @@ Note: This is still under construction.
 - ![](./_assets/junior.png) [RxJs](topic-details/rxjs-and-reactive-programming.md)
 - ![](./_assets/junior.png) [Reactive programming](topic-details/rxjs-and-reactive-programming.md)
 - ![](./_assets/junior.png) Testing
-- ![](./_assets/mid.png) Dependency Injection
-- ![](./_assets/mid.png) Modules for features
+- ![](./_assets/junior.png) ![](./_assets/mid.png) Modules for features
 - ![](./_assets/junior.png) ![](./_assets/mid.png) Typescript
+- ![](./_assets/mid.png) Dependency Injection
 - ![](./_assets/mid.png) Animations
 
 ### More Advanced Concepts

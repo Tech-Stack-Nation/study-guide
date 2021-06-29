@@ -12,3 +12,4 @@ If you study enough of it, you'll realise that the Angular framework implements 
 
 - Working Effectively with Legacy Code - Michael C. Feathers
 - Patterns of Enterprise Application Architecture - Martin Fowler
+- [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) - free eBook

@@ -1,6 +1,6 @@
 # Angular Study Plan
 
-A graded list of topics you'll need to learn to be a professional Angular developer, with an opinionated, curated list of links to study materials.
+A graded list of topics you'll need to learn to be a professional Angular developer with an opinionated, curated list of links to study materials.
 
 Note: This is still under construction.
 
@@ -23,8 +23,8 @@ Note: This is still under construction.
 - ![](./_assets/junior.png) Forms
 - ![](./_assets/junior.png) Basic Angular Architecture
 - ![](./_assets/junior.png) Observables
-- ![](./_assets/junior.png) RxJs
-- ![](./_assets/junior.png) Reactive programming
+- ![](./_assets/junior.png) [RxJs](topic-details/rxjs-and-reactive-programming.md)
+- ![](./_assets/junior.png) [Reactive programming](topic-details/rxjs-and-reactive-programming.md)
 - ![](./_assets/junior.png) Testing
 - ![](./_assets/mid.png) Dependency Injection
 - ![](./_assets/mid.png) Modules for features

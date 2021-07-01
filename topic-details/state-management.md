@@ -11,7 +11,6 @@
 
 - Services for simple state management
 - NgRx
-  - https://ultimatecourses.com/learn/ngrx-store-effects
   - https://gumroad.com/l/angular-ngrx-book
   - https://www.pluralsight.com/courses/angular-ngrx-getting-started
 - NGXS

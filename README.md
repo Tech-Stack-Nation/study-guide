@@ -72,7 +72,7 @@ Note: This is still under construction.
 ### Extended Ecosystem
 
 - ![](./_assets/junior.png) ![](./_assets/mid.png) ![](./_assets/senior.png) SCSS
-- ![](./_assets/junior.png) ![](./_assets/mid.png) ![](./_assets/senior.png) Jest
+- ![](./_assets/junior.png) ![](./_assets/mid.png) ![](./_assets/senior.png) [Jest](topic-details/jest.md)
 - ![](./_assets/mid.png) ![](./_assets/senior.png) Angular Material
 - ![](./_assets/senior.png) Nrwl Nx
 - ![](./_assets/mid.png) ![](./_assets/senior.png) Storybook

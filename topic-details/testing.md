@@ -22,4 +22,4 @@ Karma and Jasmine are the official Angular libraries required for unit testing. 
 
 ### Related
 
-- [Testing with Jest](jest.md) - an alternative testing library
+- [Testing with Jest](jest.md) - an alternative testing library to Karma and Jasmine

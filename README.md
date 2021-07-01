@@ -1,4 +1,4 @@
-# Angular Study Plan
+# Angular Study Guide
 
 A graded list of topics you'll need to learn to be a professional Angular developer with an opinionated, curated list of links to study materials.
 

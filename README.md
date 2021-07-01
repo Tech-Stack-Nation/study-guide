@@ -58,7 +58,7 @@ Note: This is still under construction.
 
 ### Patterns
 
-- ![](./_assets/junior.png) ![](./_assets/mid.png) ![](./_assets/senior.png) [Angular Style Guide](topic-details/angular-style-guide.md)
+- ![](./_assets/junior.png) ![](./_assets/mid.png) ![](./_assets/senior.png) [Angular Style Guide](https://angular.io/guide/styleguide)
 - ![](./_assets/mid.png) ![](./_assets/senior.png) [Atomic Design](topic-details/atomic-design.md)
 - ![](./_assets/senior.png) [Enterprise Angular Monorepo Patterns](topic-details/modular-apps.md)
 - ![](./_assets/senior.png) [Domain-Driven Design with Angular](topic-details/modular-apps.md)

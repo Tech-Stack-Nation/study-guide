@@ -14,7 +14,7 @@ it("#getValue should return value", () => {
 });
 ```
 
-The bit where Jest really shines ahead of Jasmine is Snapshot Testing. See [this article for an intro to Snapshot Testing](https://izifortune.com/snapshot-testing-angular-applications/)
+The bit where Jest really shines ahead (apart from speed) of Jasmine is Snapshot Testing. See [this article for an intro to Snapshot Testing](https://izifortune.com/snapshot-testing-angular-applications/)
 
 ### Links
 

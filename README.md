@@ -74,7 +74,7 @@ Note: This is still under construction.
 - ![](./_assets/junior.png) ![](./_assets/mid.png) ![](./_assets/senior.png) SCSS
 - ![](./_assets/junior.png) ![](./_assets/mid.png) ![](./_assets/senior.png) [Jest](topic-details/jest.md)
 - ![](./_assets/mid.png) ![](./_assets/senior.png) Angular Material
-- ![](./_assets/senior.png) Nrwl Nx
+- ![](./_assets/senior.png) [Nrwl Nx](topic-details/nrwl-and-nx.md)
 - ![](./_assets/mid.png) ![](./_assets/senior.png) Storybook
 - ![](./_assets/mid.png) ![](./_assets/senior.png) Cypress
 - ![](./_assets/mid.png) ![](./_assets/senior.png) [NgRx](topic-details/state-management.md)

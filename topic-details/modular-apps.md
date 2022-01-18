@@ -1,7 +1,7 @@
 # Modular Apps using Nrwl Nx
 
 There are two industry standard patterns for structuring apps into modular libraries within [Nrwl Nx](https://nx.dev/) Workspace monorepos.
-
+To know more about Nrwl Nx, find [study guide for Nrwl Nx](nrwl-and-nx.md)
 ## Enterprise Angular Monorepo Patterns
 
 An eBook published by Nrwl
